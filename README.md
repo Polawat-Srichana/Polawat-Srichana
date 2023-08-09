@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Sciencetist - Web Devloper
 --------------------------
 
-Graduate student in Industrial Mathematics with expertise in the fields of Data Scientist and Data Analyst, whose work has been recognized in research and data analysis through international academic conferences. I am experienced in Data mining, Machine learning models, Data-related solutions, Data visualization, and Cloud computing. I seek opportunities to build tools and analytics to manage data insights and risk management for marketing and business strategy and decision-making. It is interested in applying experience and knowledge to drive and efficiently develop professional data management capabilities for organizational effectiveness.
+Graduated student in Industrial Mathematics with expertise in the fields of Data Scientist and Data Analyst, whose work has been recognized in research and data analysis through international academic conferences. I am experienced in Data mining, Machine learning models, Data-related solutions, Data visualization, and Cloud computing. I seek opportunities to build tools and analytics to manage data insights and risk management for marketing and business strategy and decision-making. It is interested in applying experience and knowledge to drive and efficiently develop professional data management capabilities for organizational effectiveness.
 
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my portfolio at [LinkedIn](http://th.linkedin.com/in/polawat-srichana-651aba228)
